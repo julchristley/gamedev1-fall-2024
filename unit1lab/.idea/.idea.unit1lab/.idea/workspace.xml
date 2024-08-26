@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="559d811a-b987-4cb4-8f9c-dbbc89ca00d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.unit1lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unit1lab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/TextLabelBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/TextLabelBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/float.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/float.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,8 @@
       <updated>1724533038058</updated>
       <workItem from="1724533039731" duration="2454000" />
       <workItem from="1724547904285" duration="2248000" />
-      <workItem from="1724620500904" duration="305000" />
+      <workItem from="1724620500904" duration="3104000" />
+      <workItem from="1724634174942" duration="1309000" />
     </task>
     <servers />
   </component>
