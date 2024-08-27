@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Events;
+using MonoBehaviour = UnityEngine.MonoBehaviour;
 
 public class TriggerEventBehaviour : MonoBehaviour
 {
@@ -10,4 +11,3 @@ public class TriggerEventBehaviour : MonoBehaviour
       triggerEnterEvent.Invoke();
    }
 }
-
