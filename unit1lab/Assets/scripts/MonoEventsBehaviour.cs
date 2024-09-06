@@ -4,7 +4,7 @@ using UnityEngine.Events;
 
 public class MonoEventsBehaviour : MonoBehaviour
 {
-    public UnityEvent startEvent, awakeEvent, disableEvent, triggerEvent;
+    public UnityEvent startEvent, awakeEvent, disableEvent, triggerEvent, enterEvent;
     private Colors colors;
     
     private void Awake()
@@ -25,6 +25,11 @@ public class MonoEventsBehaviour : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        colors.ChangeColor(Color.green);
+        colors.Green();
+    }
+
+    private void OnMouseEnter()
+    {
+        
     }
 }
