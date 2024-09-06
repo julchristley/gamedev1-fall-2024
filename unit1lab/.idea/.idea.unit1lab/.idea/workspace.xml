@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scripts/Colors.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Colors.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scripts/MonoEventsBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/MonoEventsBehaviour.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Movement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +21,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/41/54895cbc/Void.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/julch/Desktop/git repos/gamedev1-fall-2024/unit1lab/Assets/scripts/MonoEventsBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/julch/Desktop/git repos/gamedev1-fall-2024/unit1lab/Assets/scripts/MonoEventsBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/julch/Desktop/git repos/gamedev1-fall-2024/unit1lab/Assets/scripts/MonoEventsBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TextMessage.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -104,13 +107,14 @@
       <workItem from="1725067853492" duration="635000" />
       <workItem from="1725413608122" duration="7954000" />
       <workItem from="1725475535067" duration="2607000" />
-      <workItem from="1725566220785" duration="5255000" />
+      <workItem from="1725566220785" duration="11564000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
     <option name="hasUnityReference" value="true" />
