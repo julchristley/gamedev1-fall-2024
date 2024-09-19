@@ -263,6 +263,90 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: seconds
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 11400000, guid: 6e454d2e9d7f0294490a43fcb409dc1d, type: 2}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 11400000, guid: 3a0f2b8f89aad36498531919a59039f7, type: 2}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Target
+      value: 
+      objectReference: {fileID: 8402473392955268248, guid: a101154479af66644933c61e671a1f8e, type: 3}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CreateInstance
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: CreateInstanceListRandomly
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
+      value: CreateInstance
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: Instancer, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: Instancer, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[3].m_TargetAssemblyTypeName
+      value: Instancer, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: e3038a6c72bb73446baa2604d3f8fcc1, type: 2}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 71db7a9275180fe44b979d29fc62ae78, type: 2}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: e3038a6c72bb73446baa2604d3f8fcc1, type: 2}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: Vector3Data, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: Vector3DataList, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046150205581988969, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
+      propertyPath: repeatUntilFalseEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: Vector3Data, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 8828093284066789310, guid: d5b6e540aef3d1a429825e6c4ef5b2ce, type: 3}
       propertyPath: m_Name
       value: InstancerGO

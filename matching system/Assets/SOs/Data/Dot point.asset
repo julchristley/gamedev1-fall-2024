@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c6a4e9b855d7cf04d8e6b5735d8fefa8, type: 3}
-  m_Name: d
+  m_Name: Dot point
   m_EditorClassIdentifier: 
-  value: {x: -3, y: 0, z: 0}
+  value: {x: 5, y: -3, z: 0}
