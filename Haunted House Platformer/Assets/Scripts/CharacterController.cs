@@ -1,55 +1,66 @@
 using UnityEngine;
 
-
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class PlayerController : MonoBehaviour
+public class CharacterSideScroller : MonoBehaviour
 {
-    // reference to rigidbody
-    private Rigidbody playerRb;
-    
-    public float horizontalInput;
-    public float speed;
-    public float jumpForce;
-    public float gravityModifier;
-    public bool isOnGround = true;
-    
-    void Start()
-    {
-        playerRb = GetComponent<Rigidbody>();
+    public float moveSpeed = 5f;
+    public float jumpForce = 4f;
+    public float gravity = -9.81f;
+    public int maxJumps = 2;
 
-        Physics.gravity *= gravityModifier;
-        
+    private CharacterController controller;
+    private Vector3 velocity;
+    private int jumpsRemaining;
+
+    private void Start()
+    {
+        controller = GetComponent<CharacterController>();
+        jumpsRemaining = maxJumps;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        horizontalInput = Input.GetAxis("Horizontal");
+        // Calling our methods
+        HorizontalMovement();
+        ApplyGravity();
+        Jump();
+        SetZPositionToZero();
 
-        // moves player left and right
-        transform.Translate(Vector3.right * horizontalInput * Time.deltaTime * speed);
-        //jumping
-        if (Input.GetKeyDown(KeyCode.Space) && isOnGround) 
+        // Apply all movement
+        controller.Move(velocity * Time.deltaTime);
+    }
+
+    private void HorizontalMovement()
+    {
+        var moveInput = Input.GetAxis("Horizontal");
+        var moveDirection = new Vector3(moveInput, 0f, 0f) * moveSpeed;
+        velocity.x = moveDirection.x;
+    }
+
+    private void ApplyGravity()
+    {
+        if (!controller.isGrounded)
         {
-        playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
-        isOnGround = false;
+            velocity.y += gravity * Time.deltaTime;
+        }
+        else
+        {
+            velocity.y = 0;
+            jumpsRemaining = maxJumps;
         }
     }
 
-    // detects collisions
-    private void OnCollisionEnter(Collision collision)
+    private void Jump()
     {
-        isOnGround = true;
-/*
-        // prevents double jumping by recognizing the ground
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            isOnGround = true;
-        }
-        
-    */
+        if (!Input.GetButton("Jump") || (!controller.isGrounded && jumpsRemaining <= 0)) return;
+        velocity.y = Mathf.Sqrt(jumpForce * -2 * gravity);
+        jumpsRemaining--;
+    }
+
+    private void SetZPositionToZero()
+    {
+        var transform1 = transform;
+        var position = transform1.position;
+        position.z = 0;
+        transform1.position = position;
     }
 }
