@@ -1,0 +1,480 @@
+Creating the node...
+Creating the node... - Updating Exports
+Creating the node... - Loading platforms11
+Creating the node... - Updating Exports
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Cooking Op:  platforms11
+Cooking... - Loading platforms11/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms11/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms11/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms11/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms11/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms11/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms11/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Cooking Op:  platforms11/geo1/lineartaper3
+Cooking... - Convexing display geometry
+Ready
+Creating the node... - Loading platforms12
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms12/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms12/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Converting Mesh
+Cooking... - Cooking Op:  platforms12/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms12/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms12/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms12/geo1/lineartaper3/deformationwrangle1/switch1
+Ready
+Creating the node...
+Creating the node... - Loading platforms13
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms13/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms13/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms13/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms13/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms13/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms13/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms13/geo1/lineartaper3/deformationwrangle1/switch1
+Ready
+Creating the node... - Loading platforms14
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms14/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms14/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms14/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms14/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms14/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms14/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms14/geo1/lineartaper3/deformationwrangle1/switch1
+Ready
+Creating the node...
+Creating the node... - Loading platforms15
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms15/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms15/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms15/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms15/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms15/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms15/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Creating the node... - Loading platforms16
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms16/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms16/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms16/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms16/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms16/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms16/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms16/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Creating the node...
+Creating the node... - Loading platforms17
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms17/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms17/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms17/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms17/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms17/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms17/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms17/geo1/lineartaper3/deformationwrangle1/switch1
+Ready
+Creating the node... - Loading platforms18
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms18/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms18/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms18/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms18/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms18/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms18/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms18/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Creating the node...
+Creating the node... - Loading platforms19
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms19/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms19/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Converting Mesh
+Cooking... - Cooking Op:  platforms19/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms19/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms19/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms19/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms19/geo1/lineartaper3/deformationwrangle1/switch1
+Ready
+Creating the node... - Loading platforms20
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms20/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms20/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms20/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms20/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms20/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms20/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Creating the node...
+Creating the node... - Loading platforms21
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms21/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms21/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms21/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms21/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms21/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms21/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms21/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Unable to save session to file: {"_HAPISession":{"type":1,"id":1766508652928},"_serverProcessID":10080,"_initialized":true,"_pipeName":"hapi","_port":0,"_sessionClassType":"HoudiniEngineUnity.HEU_SessionHAPI","_isDefaultSession":true,"_sessionSync":{"_status":0,"_timeLastUpdate":0.0,"_timeStartConnection":0.0,"_newNodeName":"geo1","_nodeTypeIndex":0,"_validForConnection":false,"_viewportHAPI":{"position":[0.0,0.0,0.0],"rotationQuaternion":[0.0,0.0,0.0,0.0],"offset":0.0},"_viewportLocal":{"position":[0.0,0.0,0.0],"rotationQuaternion":[0.0,0.0,0.0,0.0],"offset":0.0},"_viewportJustUpdated":false,"_syncInfo":{"cookUsingHoudiniTime":false,"syncViewport":false}},"_connectionState":1,"_sessionMode":1};. Exception: System.IO.IOException: Sharing violation on path D:\Desktop\git repos\gamedev1-fall-2024\Haunted House Platformer\heu_session.txt
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <31687ccd371e4dc6b0c23a1317cf9474>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) [0x00000] in <31687ccd371e4dc6b0c23a1317cf9474>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) [0x00055] in <31687ccd371e4dc6b0c23a1317cf9474>:0 
+  at System.IO.StreamWriter..ctor (System.String path) [0x00008] in <31687ccd371e4dc6b0c23a1317cf9474>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter..ctor(string)
+  at System.IO.File.WriteAllText (System.String path, System.String contents) [0x00026] in <31687ccd371e4dc6b0c23a1317cf9474>:0 
+  at HoudiniEngineUnity.HEU_Platform.WriteAllText (System.String path, System.String text) [0x00000] in D:\Desktop\git repos\gamedev1-fall-2024\Haunted House Platformer\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Platform.cs:460 
+Creating the node... - Loading platforms22
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms22/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms22/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms22/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms22/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms22/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms22/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Duplicating input
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms22/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Creating the node...
+Creating the node... - Loading platforms23
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms23/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms23/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Converting Mesh
+Cooking... - Cooking Op:  platforms23/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms23/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms23/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms23/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Duplicating input
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms23/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Unable to save session to file: {"_HAPISession":{"type":1,"id":1766508652928},"_serverProcessID":10080,"_initialized":true,"_pipeName":"hapi","_port":0,"_sessionClassType":"HoudiniEngineUnity.HEU_SessionHAPI","_isDefaultSession":true,"_sessionSync":{"_status":0,"_timeLastUpdate":0.0,"_timeStartConnection":0.0,"_newNodeName":"geo1","_nodeTypeIndex":0,"_validForConnection":false,"_viewportHAPI":{"position":[0.0,0.0,0.0],"rotationQuaternion":[0.0,0.0,0.0,0.0],"offset":0.0},"_viewportLocal":{"position":[0.0,0.0,0.0],"rotationQuaternion":[0.0,0.0,0.0,0.0],"offset":0.0},"_viewportJustUpdated":false,"_syncInfo":{"cookUsingHoudiniTime":false,"syncViewport":false}},"_connectionState":1,"_sessionMode":1};. Exception: System.IO.IOException: Sharing violation on path D:\Desktop\git repos\gamedev1-fall-2024\Haunted House Platformer\heu_session.txt
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <31687ccd371e4dc6b0c23a1317cf9474>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) [0x00000] in <31687ccd371e4dc6b0c23a1317cf9474>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) [0x00055] in <31687ccd371e4dc6b0c23a1317cf9474>:0 
+  at System.IO.StreamWriter..ctor (System.String path) [0x00008] in <31687ccd371e4dc6b0c23a1317cf9474>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter..ctor(string)
+  at System.IO.File.WriteAllText (System.String path, System.String contents) [0x00026] in <31687ccd371e4dc6b0c23a1317cf9474>:0 
+  at HoudiniEngineUnity.HEU_Platform.WriteAllText (System.String path, System.String text) [0x00000] in D:\Desktop\git repos\gamedev1-fall-2024\Haunted House Platformer\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Platform.cs:460 
+Creating the node... - Loading platforms24
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms24/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms24/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms24/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms24/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms24/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms24/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms24/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Creating the node...
+Creating the node... - Loading platforms25
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms25/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms25/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms25/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms25/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms25/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms25/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms25/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Creating the node... - Loading platforms26
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms26/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms26/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms26/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms26/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms26/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms26/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms26/geo1/lineartaper3/deformationwrangle1/switch1
+Ready
+Creating the node...
+Creating the node... - Loading platforms27
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms27/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms27/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms27/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms27/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms27/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms27/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms27/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Creating the node... - Loading platforms28
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms28/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms28/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms28/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms28/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms28/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms28/geo1/lineartaper3/deformationwrangle1/switch1
+Ready
+Creating the node...
+Creating the node... - Loading platforms29
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms29/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms29/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Converting Mesh
+Cooking... - Cooking Op:  platforms29/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms29/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms29/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms29/geo1/lineartaper3/deformationwrangle1/switch1
+Ready
+Creating the node...
+Creating the node... - Loading platforms30
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms30/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms30/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms30/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms30/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms30/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms30/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms30/geo1/lineartaper3/deformationwrangle1/xformbyattrib1
+Ready
+Creating the node...
+Creating the node... - Loading platforms31
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms31/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms31/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Converting Mesh
+Cooking... - Cooking Op:  platforms31/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms31/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms31/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms31/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Duplicating input
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms31/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Creating the node... - Loading platforms32
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms32/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms32/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Building Cube
+Cooking... - Cooking Op:  platforms32/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms32/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms32/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms32/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Duplicating input
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms32/geo1/lineartaper3/deformationwrangle1/switch1
+Ready
+Creating the node...
+Creating the node... - Loading platforms33
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms33/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms33/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Converting Mesh
+Cooking... - Cooking Op:  platforms33/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms33/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms33/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms33/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms33/geo1/lineartaper3/deformationwrangle1/switch1
+Ready
+Creating the node... - Loading platforms34
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Loading platforms34/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms34/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Cooking Op:  platforms34/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms34/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms34/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms34/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms34/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Ready
+Creating the node...
+Creating the node... - Loading platforms35
+Creating the node... - Run Hscript command
+Ready
+Cooking...
+Cooking... - Cooking Op:  platforms35
+Cooking... - Loading platforms35/geo1/lineartaper3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms35/geo1/lineartaper3/deformationwrangle1
+Cooking... - Run Hscript command
+Cooking... - Converting Mesh
+Cooking... - Cooking Op:  platforms35/geo1/box3
+Cooking... - Run Hscript command
+Cooking... - Loading platforms35/geo1/lineartaper3/rot_matrix
+Cooking... - Cooking Op:  platforms35/geo1/lineartaper3/rot_matrix/attribvop1
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms35/geo1/lineartaper3/deformationwrangle1/attribvop_explicitxform
+Cooking... - Executing Vex...
+Cooking... - Cooking Op:  platforms35/geo1/lineartaper3/deformationwrangle1/xformbyattrib1
+Ready
